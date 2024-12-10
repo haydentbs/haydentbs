@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @haydentbs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! 👋
+I'm a recent Physics graduate passionate about exploring the intersections of Machine Learning and Artificial Intelligence.
 
-<!---
-haydentbs/haydentbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Interests
+Machine Learning: Building models to uncover patterns and make predictions.
+AI Applications: Exploring how AI can revolutionize industries.
+Physics-Inspired Computing: Leveraging analytical thinking and problem-solving skills from physics.
+
+🌟 Skills
+Programming: Python, TensorFlow, PyTorch, Scikit Learn
+Data Analysis: Pandas, NumPy, Matplotlib
+Projects: Working on practical ML and AI applications to learn and grow
+
+📫 Let's Connect
+Feel free to reach out or check out my repositories for more about what I’m working on!
