@@ -7,7 +7,7 @@ AI Applications: Exploring how AI can revolutionize industries.
 Physics-Inspired Computing: Leveraging analytical thinking and problem-solving skills from physics.
 
 🌟 Skills
-Programming: Python, TensorFlow, PyTorch, Scikit Learn
+Programming: Python, Scikit Learn
 Data Analysis: Pandas, NumPy, Matplotlib
 Projects: Working on practical ML and AI applications to learn and grow
 
