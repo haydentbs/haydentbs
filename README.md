@@ -13,5 +13,6 @@ Projects: Working on practical ML and AI applications to learn and grow
 
 📫 Let's Connect
 Feel free to reach out or check out my repositories for more about what I’m working on!
+You can reach me at hayden@htibbals.com
 
 <img src="https://hits.sh/github.com/haydentbs.svg" width="1" height="1" style="display: none;" />
