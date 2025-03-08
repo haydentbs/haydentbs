@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm a recent Physics graduate passionate about exploring the intersections of Machine Learning and Artificial Intelligence.
+I'm a recent Physics graduate passionate about exploring Machine Learning and Artificial Intelligence.
 
 🚀 Interests
 Machine Learning: Building models to uncover patterns and make predictions.
